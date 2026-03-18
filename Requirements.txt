@@ -18,3 +18,4 @@ ddgs
 fal_client
 pyperclip
 webdriver-manager
+gunicone
