@@ -282,7 +282,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ---
 
 ## ENV Fie
-```
+```env
 -InputLanguage= en #also replace hindi (hi)
 -AssistantVoice=en-CA-LiamNeural (Also Change voice of Assistant Go through Python Official website)
 -CohereAPIKey= API Key Here
