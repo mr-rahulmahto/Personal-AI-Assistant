@@ -287,7 +287,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 -AssistantVoice=en-CA-LiamNeural (Also Change voice of Assistant Go through Python Official website)
 -CohereAPIKey= API Key Here
 -Username = Its your Name
-=Assistantname = Personal AI Assistant Name
+-Assistantname = Personal AI Assistant Name
 -GroqAPIKey = API Key Here
 -HuggingFaceAPIKey = API key Here
 ```
