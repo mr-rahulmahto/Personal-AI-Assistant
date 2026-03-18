@@ -1,0 +1,48 @@
+
+# Environment variables  — never commit secret
+.env
+.env.*
+*.env
+
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+
+# Virtual environments
+
+venv/
+.venv/
+env/
+ENV/
+envjarvis/
+.envjarvis
+
+# IDE / editor folders
+
+.vscode/
+.idea/
+*.suo
+*.user
+
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & temp file
+*.log
+*.tmp
+*.temp
+*.Data
+Frontend/*.Files
